@@ -4,7 +4,7 @@ import cn.itcast.pojo.Items;
 import org.springframework.stereotype.Repository;
 
 @Repository("itemsDao")
-public interface ItemsDao {
+public interface ItemsDaobysdds {
 
     /**
      * 查询所有
