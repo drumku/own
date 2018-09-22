@@ -11,7 +11,7 @@ public interface ItemsDao {
      * @param id
      * @return
      */
-    public Items findByIdtestchange(int id);
+    public Items findById(int id);
 	
 	
 }
